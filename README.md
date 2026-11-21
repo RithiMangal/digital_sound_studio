@@ -20,8 +20,6 @@ A native, lightweight Linux desktop app — Rust + egui, no Electron, no browser
 
 ---
 
-> "yentha songs or music neenga dwnld pani vechurunthaalum antha files yellathaiyum ithu moolama DTS panikitingana antha songs enhanceda irukum"
->
 > *"Whatever songs or music you have downloaded and kept — if you convert all of those files to DTS through this app, those songs will sound enhanced."*
 >
 > — the project author, defining the vision behind Digital Sound Studio
